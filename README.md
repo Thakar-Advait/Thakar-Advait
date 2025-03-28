@@ -31,7 +31,7 @@ A passionate software engineer from Ahmedabad, Gujarat, with a sharp focus on Da
 -   🚀 Integrated Redis for performance optimization
 -   🔒 Utilized Supabase and Google Cloud
 
-[![Explore ZenDNS](https://img.shields.io/badge/Explore-GitHub-black?style=for-the-badge&logo=github)](https://github.com/advait-thakar/ZenDNS)
+[![Explore ZenDNS](https://img.shields.io/badge/Explore-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Thakar-Advait/ZenDNS)
 
 ### 2. Video Streaming API
 
@@ -40,7 +40,7 @@ A passionate software engineer from Ahmedabad, Gujarat, with a sharp focus on Da
 -   ☁️ Cloudinary integration for media storage
 -   📊 Utilized MongoDB aggregation pipelines
 
-[![Explore Video Streaming API](https://img.shields.io/badge/Explore-GitHub-black?style=for-the-badge&logo=github)](https://github.com/advait-thakar/video-streaming-api)
+[![Explore Video Streaming API](https://img.shields.io/badge/Explore-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Thakar-Advait/Vortica)
 
 ### 3. Personal Git Server Infrastructure
 
@@ -49,7 +49,7 @@ A passionate software engineer from Ahmedabad, Gujarat, with a sharp focus on Da
 -   🌐 Configured GitWeb and Nginx
 -   🛡️ Integrated SSL certification
 
-[![Explore Git Server Infrastructure](https://img.shields.io/badge/Explore-GitHub-black?style=for-the-badge&logo=github)](https://github.com/advait-thakar/personal-git-server)
+[![Explore Git Server Infrastructure](https://img.shields.io/badge/Explore-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Thakar-Advait/Setting-up-Git)
 
 ### 4. logit-cmd: Command-Line Logger
 
@@ -58,7 +58,7 @@ A passionate software engineer from Ahmedabad, Gujarat, with a sharp focus on Da
 -   🚀 Supports execution in root or specified sub-directories
 -   📊 Provides comprehensive audit logs with detailed execution details
 
-[![Explore logit-cmd](https://img.shields.io/badge/Explore-GitHub-black?style=for-the-badge&logo=github)](https://github.com/advait-thakar/logit-cmd)
+[![Explore logit-cmd](https://img.shields.io/badge/Explore-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Thakar-Advait/logit-cmd)
 
 ## 📊 Coding Platforms
 
